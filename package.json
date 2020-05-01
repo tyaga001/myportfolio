@@ -16,5 +16,8 @@
     "bugs": {
         "url": "https://github.com/tyaga001/myportfolio/issues"
     },
-    "homepage": "https://github.com/tyaga001/myportfolio#readme"
+    "homepage": "https://github.com/tyaga001/myportfolio#readme",
+    "devDependencies": {
+        "cypress": "^4.5.0"
+    }
 }
