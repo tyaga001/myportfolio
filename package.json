@@ -1,0 +1,20 @@
+{
+    "name": "personal-website",
+    "version": "1.0.0",
+    "description": "My-Personal-Portfolio-Website",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "e2e": "Cypress open"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tyaga001/myportfolio.git"
+    },
+    "author": "Ankur Tyagi",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/tyaga001/myportfolio/issues"
+    },
+    "homepage": "https://github.com/tyaga001/myportfolio#readme"
+}
